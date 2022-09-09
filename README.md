@@ -1,2 +1,2 @@
-# wedding
-Landing page of wedding agency
+# udmurtia
+Landing page of udmurtia travel
