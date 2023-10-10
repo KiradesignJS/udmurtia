@@ -94,9 +94,6 @@ h1, h2, h3, h4, h5, h6 {
     align-items: center;
 }
 
-.header_logo {
-}
-
 /*Navigaton*/
 
 .nav {
@@ -554,10 +551,6 @@ h1, h2, h3, h4, h5, h6 {
     
 }
 
-.footer_social {
-    
-}
-
 .footer_social_header {
     font-size: 24px;
     color: #131313;
@@ -566,10 +559,6 @@ h1, h2, h3, h4, h5, h6 {
     
     padding-top: 10px;
     padding-bottom: 20px;
-}
-
-.footer_social_contant {
-    
 }
 
 .footer_menu {
